@@ -48,24 +48,6 @@ A comprehensive multi-threaded ticketing system built with Spring Boot that simu
 
 A comprehensive multi-threaded ticketing system built with Spring Boot and Angular that simulates ticket management. The system allows vendors to add tickets and customers to purchase them through RESTful APIs and real-time updates via WebSockets. Configuration settings are managed through a MySQL database, ensuring persistence and flexibility.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Configuration](#configuration)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [WebSocket Integration](#websocket-integration)
-- [Testing](#testing)
-  - [Backend Tests](#backend-tests)
-  - [Frontend Tests](#frontend-tests)
-- [Logging](#logging)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
