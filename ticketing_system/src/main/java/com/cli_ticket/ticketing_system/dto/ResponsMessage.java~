@@ -1,0 +1,4 @@
+package com.cli_ticket.ticketing_system.dto;
+
+public class ResponsMessage {
+}
